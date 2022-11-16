@@ -1,0 +1,17 @@
+{
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "name": "A Couple of Apps",
+  "short_name": "Apps!",
+  "description": "A set of simple apps, including a location tracker.",
+  "display": "standalone",
+  "start_url": "/?utm_source=homescreen",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "s-logo-cropped.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
